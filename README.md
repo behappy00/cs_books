@@ -87,11 +87,15 @@
 
 
 3. Java 并发
-	+ JAVA并发编程实战
-	+ Java多线程编程核心技术
-	+ 实战Java高并发程序设计
-	+ Java并发编程之美
-	+ Java并发编程的艺术
+
+| 编号 | 书籍名称 | 跳转 |
+| --- | --- |--- |
+| 1 | JAVA并发编程实战 |
+| 2 | Java多线程编程核心技术 |
+| 3 | 实战Java高并发程序设计 |
+| 4 | Java并发编程之美 |
+| 5 | Java并发编程的艺术 |
+
 
 4. Java Web
 	+ Head First Servlets and JSP
@@ -128,9 +132,11 @@
 	+ Python正则表达式-深入浅出
 
 2. Python 爬虫
-Python3网络爬虫数据采集
-用Python写网络爬虫
-精通Scrapy网络爬虫
+| 编号 | 书籍名称 | 跳转 |
+| --- | --- |--- |
+| 1 | Python3网络爬虫数据采集 |
+| 2 | 用Python写网络爬虫 |
+| 3 | 精通Scrapy网络爬虫 |
 
 3. Python 数据分析与数据挖掘
 	+ Python数据分析基础
