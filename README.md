@@ -76,11 +76,15 @@
 
 
 2. Java 虚拟机
-	+ 深入理解Java虚拟机
-	+ 深入理解JVM＆G1GC
-	+ 实战JAVA虚拟机JVM故障诊断与性能优化
-	+ 自己动手写Java虚拟机
-	+ HotSpot实战
+
+| 编号 | 书籍名称 |
+| --- | --- |
+| 1 | 深入理解Java虚拟机 |
+| 2 | 深入理解JVM＆G1GC |
+| 3 | 实战JAVA虚拟机JVM故障诊断与性能优化 |
+| 4 | 自己动手写Java虚拟机 |
+| 5 | HotSpot实战 |
+
 
 3. Java 并发
 	+ JAVA并发编程实战
@@ -206,12 +210,16 @@ Python3网络爬虫数据采集
 #### 数据库
 
 1. SQL
-	+ Head First SQL
-	+ SQL 学习指南
-	+ SQL 必知必会
-	+ SQL Cookbook
 
-<span id="SQL必知必会">SQL 必知必会</span>
+
+| 编号 | 书籍名称 | 跳转 |
+| --- | --- |--- |
+| 1 | Head First SQL |
+| 2 | SQL 学习指南 |<span id="SQL必知必会">SQL 必知必会</span>|
+| 3 | SQL 必知必会 |
+| 4 | SQL Cookbook |
+
+
  
 2. MySQL
 	+ MySQL 必知必会
