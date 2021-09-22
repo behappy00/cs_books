@@ -189,7 +189,9 @@ Python3网络爬虫数据采集
 1. SQL
 	+ Head First SQL
 	+ SQL 学习指南
+	
 ==SQL 必知必会== 
+
 	+ SQL Cookbook
 	
 2. MySQL
