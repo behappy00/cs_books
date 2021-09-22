@@ -44,31 +44,31 @@
 #### Java
 
 1. Java 基础
-+ Head First Java
-+ Java8实战
-+ Java编程思想
-+ Java核心技术 卷1
-+ Effective Java
-+ Java从小白到大牛
-+ Java解惑
-+ Java工程师修炼之道
-+ 码出高效
-+ 写给大忙人看的JavaSE8
-+ 阿里巴巴Java开发手册
+	+ Head First Java
+	+ Java8实战
+	+ Java编程思想
+	+ Java核心技术 卷1
+	+ Effective Java
+	+ Java从小白到大牛
+	+ Java解惑
+	+ Java工程师修炼之道
+	+ 码出高效
+	+ 写给大忙人看的JavaSE8
+	+ 阿里巴巴Java开发手册
 
 2. Java 虚拟机
-+ 深入理解Java虚拟机
-+ 深入理解JVM＆G1GC
-+ 实战JAVA虚拟机JVM故障诊断与性能优化
-+ 自己动手写Java虚拟机
-+ HotSpot实战
+	+ 深入理解Java虚拟机
+	+ 深入理解JVM＆G1GC
+	+ 实战JAVA虚拟机JVM故障诊断与性能优化
+	+ 自己动手写Java虚拟机
+	+ HotSpot实战
 
 3. Java 并发
-+ JAVA并发编程实战
-+ Java多线程编程核心技术
-+ 实战Java高并发程序设计
-+ Java并发编程之美
-+ Java并发编程的艺术
+	+ JAVA并发编程实战
+	+ Java多线程编程核心技术
+	+ 实战Java高并发程序设计
+	+ Java并发编程之美
+	+ Java并发编程的艺术
 
 4. Java Web
 	+ Head First Servlets and JSP
@@ -92,17 +92,17 @@
 #### Python
 
 1. Python 基础
-编程小白的第一本Python入门书
-Python编程初学者指南
-Python高级编程
-Python核心编程
-Python编程入门经典
-Python开发技术详解
-Python操作word,excel,pdf
-Python开发实战
-Python网络编程基础
-Python学习手册
-Python正则表达式-深入浅出
+	+ 编程小白的第一本Python入门书
+	+ Python编程初学者指南
+	+ Python高级编程
+	+ Python核心编程
+	+ Python编程入门经典
+	+ Python开发技术详解
+	+ Python操作word,excel,pdf
+	+ Python开发实战
+	+ Python网络编程基础
+	+ Python学习手册
+	+ Python正则表达式-深入浅出
 
 2. Python 爬虫
 Python3网络爬虫数据采集
@@ -110,51 +110,51 @@ Python3网络爬虫数据采集
 精通Scrapy网络爬虫
 
 3. Python 数据分析与数据挖掘
-Python数据分析基础
-Python数据分析与挖掘实战
-数据分析实战
-数据挖掘导论
-Python数据处理
+	+ Python数据分析基础
+	+ Python数据分析与挖掘实战
+	+ 数据分析实战
+	+ 数据挖掘导论
+	+ Python数据处理
 
 #### Go
 
 #### Linux
 
-鸟哥的Linux私房菜
-Unix & Linux 大学教程
-Linux常用命令大全
-Linux高级程序设计
-精通正则表达式
-深入Linux内核架构
-Linux宝典
-Linux防火墙
-Linux环境编程
-Linux命令详解词典
-UNIX环境高级编程
-Linux UNIX系统编程手册 - 上
-Linux UNIX系统编程手册 - 下
++ 鸟哥的Linux私房菜
++ Unix & Linux 大学教程
++ Linux常用命令大全
++ Linux高级程序设计
++ 精通正则表达式
++ 深入Linux内核架构
++ Linux宝典
++ Linux防火墙
++ Linux环境编程
++ Linux命令详解词典
++ UNIX环境高级编程
++ Linux UNIX系统编程手册 - 上
++ Linux UNIX系统编程手册 - 下
 
 #### 数据结构与算法
 
-数据结构与算法分析C语言描述版
-数据结构与算法分析Java语言描述版
-数据结构与算法 Python语言描述_裘宗燕
-程序员代码面试指南：IT 名企算法与数据结构题目最优解
-剑指offer 名企面试官精讲典型编程题
-算法第四版
-算法导论
-大话数据结构
-背包九讲
-算法新解
-编程珠玑
-算法图解
-十五个经典算法研究与总结
-挑战程序设计竞赛
-算法图解
-计算机程序设计艺术1-3卷
-编程之美
-啊哈算法
-程序员的算法趣题
++ 数据结构与算法分析C语言描述版
++ 数据结构与算法分析Java语言描述版
++ 数据结构与算法 Python语言描述_裘宗燕
++ 程序员代码面试指南：IT 名企算法与数据结构题目最优解
++ 剑指offer 名企面试官精讲典型编程题
++ 算法第四版
++ 算法导论
++ 大话数据结构
++ 背包九讲
++ 算法新解
++ 编程珠玑
++ 算法图解
++ 十五个经典算法研究与总结
++ 挑战程序设计竞赛
++ 算法图解
++ 计算机程序设计艺术1-3卷
++ 编程之美
++ 啊哈算法
++ 程序员的算法趣题
 
 #### 计算机网络
 
