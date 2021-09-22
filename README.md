@@ -59,17 +59,21 @@
 #### Java
 
 1. Java 基础
-	+ Head First Java
-	+ Java8实战
-	+ Java编程思想
-	+ Java核心技术 卷1
-	+ Effective Java
-	+ Java从小白到大牛
-	+ Java解惑
-	+ Java工程师修炼之道
-	+ 码出高效
-	+ 写给大忙人看的JavaSE8
-	+ 阿里巴巴Java开发手册
+
+| 编号 | 书籍名称 |
+| --- | --- |
+| 1 | Head First Java|
+| 2 | Java8实战 |
+| 3 | Java编程思想 |
+| 4 | Java核心技术 卷1 |
+| 5 | Effective Java |
+| 6 | Java从小白到大牛 |
+| 7 | Java解惑 |
+| 8 | Java工程师修炼之道 |
+| 9 | 码出高效 |
+| 10 | 写给大忙人看的JavaSE8 |
+| 11 | 阿里巴巴Java开发手册 |
+
 
 2. Java 虚拟机
 	+ 深入理解Java虚拟机
