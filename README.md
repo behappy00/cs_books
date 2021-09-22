@@ -189,7 +189,8 @@ Python3网络爬虫数据采集
 1. SQL
 	+ Head First SQL
 	+ SQL 学习指南
-	+ SQL 必知必会 <font style="background:yellow"> huanse </font>
+	+ SQL 必知必会 
+	<font style="background:yellow"> huanse </font>
 	+ SQL Cookbook
 	
 2. MySQL
