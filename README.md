@@ -274,14 +274,21 @@ Python3网络爬虫数据采集
 
 
 3. 计算机视觉
-	+ Computer vision
-	+ 图像处理分析与机器视觉
-	+ 学习OpenCV 3 中文版
+
+| 编号 | 书籍名称 | 跳转 |
+| --- | --- |--- |
+| 1 | Computer vision |
+| 2 | 图像处理分析与机器视觉 |
+| 3 | 学习OpenCV 3 中文版 |
+
 
 4. 自然语言处理
-	+ deep_learning_for_nlp
-	+ Python自然语言处理中文翻译 NLTK 中文版
-	+ 斯坦福CS224n 自然语言处理与深度学习 - 笔记
+
+| 编号 | 书籍名称 | 跳转 |
+| --- | --- |--- |
+| 1 | deep_learning_for_nlp |
+| 2 | Python自然语言处理中文翻译 NLTK 中文版 |
+| 3 | 斯坦福CS224n 自然语言处理与深度学习 - 笔记 |
 
 #### 编程之术
 
@@ -290,9 +297,16 @@ Python3网络爬虫数据采集
 1. Git
 
 2. Docker
-+ DOCKER技术入门与实战
-+ Docker容器与容器云
+
+| 编号 | 书籍名称 | 跳转 |
+| --- | --- |--- |
+| 1 | DOCKER技术入门与实战 |
+| 2 | PDocker容器与容器云 |
+
 
 3. Kubernetes
-+ Kubernetes权威指南：从Docker到Kubernetes实践全接触
-+ 剖析Kubernetes
+
+| 编号 | 书籍名称 | 跳转 |
+| --- | --- |--- |
+| 1 | Kubernetes权威指南：从Docker到Kubernetes实践全接触 |
+| 2 | 剖析Kubernetes |
