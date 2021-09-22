@@ -9,8 +9,8 @@
 
 #### C语言
 
-C Primer Plus
-经典C程序100例
++ C Primer Plus
++ 经典C程序100例
 C程序设计语言（包括课后答案等）
 C和指针
 征服C指针
@@ -72,9 +72,13 @@ Java并发编程的艺术
 
 4. Java Web
 Head First Servlets and JSP
+
 Spring 入门指南
+
 Spring实战
+
 Java EE互联网轻量级框架整合开发 SSM框架
+
 大型网站技术架构：核心原理与案例分析
 大型网站系统与JAVA中间件实践
 架构探险 从零开始写javaweb框架
