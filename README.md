@@ -11,84 +11,80 @@
 
 + C Primer Plus
 + 经典C程序100例
-C程序设计语言（包括课后答案等）
-C和指针
-征服C指针
-C语言编程精粹
-C语言参考手册
-C语言函数大全
-C语言解析教程
-C语言深度剖析
-经典C程序100例
-C语言参考手册第五版
++ C程序设计语言（包括课后答案等）
++ C和指针
++ 征服C指针
++ C语言编程精粹
++ C语言参考手册
++ C语言函数大全
++ C语言解析教程
++ C语言深度剖析
++ 经典C程序100例
++ C语言参考手册第五版
 
 #### C++
 
-C++ Primer
-C++大学教程
-C++编程思想
-C++对象模型
-STL源码剖析 + 源码
-深入探索C++对象模型
-C++ Templates
-C++编程规范-101条规则准则与最佳实践
-提高C++性能的编程技术.左飞
-C++沉思录中文第2版
-C++实践工程学-陈硕
-C++并发编程实战
-C++设计新思维-泛型编程与设计之应用
-Effective STL 中文版
-More Effective C++中文版
-STL源码剖析
++ C++ Primer
++ C++大学教程
++ C++编程思想
++ C++对象模型
++ STL源码剖析 + 源码
++ 深入探索C++对象模型
++ C++ Templates
++ C++编程规范-101条规则准则与最佳实践
++ 提高C++性能的编程技术.左飞
++ C++沉思录中文第2版
++ C++实践工程学-陈硕
++ C++并发编程实战
++ C++设计新思维-泛型编程与设计之应用
++ Effective STL 中文版
++ More Effective C++中文版
++ STL源码剖析
 
 #### Java
 
 1. Java 基础
-Head First Java
-Java8实战
-Java编程思想
-Java核心技术 卷1
-Effective Java
-Java从小白到大牛
-Java解惑
-Java工程师修炼之道
-码出高效
-写给大忙人看的JavaSE8
-阿里巴巴Java开发手册
++ Head First Java
++ Java8实战
++ Java编程思想
++ Java核心技术 卷1
++ Effective Java
++ Java从小白到大牛
++ Java解惑
++ Java工程师修炼之道
++ 码出高效
++ 写给大忙人看的JavaSE8
++ 阿里巴巴Java开发手册
 
 2. Java 虚拟机
-深入理解Java虚拟机
-深入理解JVM＆G1GC
-实战JAVA虚拟机JVM故障诊断与性能优化
-自己动手写Java虚拟机
-HotSpot实战
++ 深入理解Java虚拟机
++ 深入理解JVM＆G1GC
++ 实战JAVA虚拟机JVM故障诊断与性能优化
++ 自己动手写Java虚拟机
++ HotSpot实战
 
 3. Java 并发
-JAVA并发编程实战
-Java多线程编程核心技术
-实战Java高并发程序设计
-Java并发编程之美
-Java并发编程的艺术
++ JAVA并发编程实战
++ Java多线程编程核心技术
++ 实战Java高并发程序设计
++ Java并发编程之美
++ Java并发编程的艺术
 
 4. Java Web
-Head First Servlets and JSP
-
-Spring 入门指南
-
-Spring实战
-
-Java EE互联网轻量级框架整合开发 SSM框架
-
-大型网站技术架构：核心原理与案例分析
-大型网站系统与JAVA中间件实践
-架构探险 从零开始写javaweb框架
-Nginx模块开发与架构解析
-实战Nginx
-Maven3实战
-Netty权威指南
-Netty实战
-深入分析Java Web技术内幕
-深入剖析Tomcat
++ Head First Servlets and JSP
++ Spring 入门指南
++ Spring实战
++ Java EE互联网轻量级框架整合开发 SSM框架
++ 大型网站技术架构：核心原理与案例分析
++ 大型网站系统与JAVA中间件实践
++ 架构探险 从零开始写javaweb框架
++ Nginx模块开发与架构解析
++ 实战Nginx
++ Maven3实战
++ Netty权威指南
++ Netty实战
++ 深入分析Java Web技术内幕
++ 深入剖析Tomcat
 
 5. 搜索引擎
 6. 消息队列
