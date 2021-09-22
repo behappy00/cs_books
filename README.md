@@ -158,14 +158,46 @@ Python3网络爬虫数据采集
 
 #### 计算机网络
 
++ 计算机网络：自顶向下
++ 计算机网络：自顶向下方法课后习题参考答案
++ 计算机网络（第7版）-谢希仁
++ 网络是怎样连接的
++ 图解HTTP
++ 图解TC/IP
++ TCPIP详解三部曲卷1：协议
++ TCPIP详解三部曲卷2：实现
++ TCP-IP详解卷3：TCP事务协议
++ HTTP 超全混总
++ HTTP权威指南
++ UNIX网络编程
++ Java2 网络协议内幕
++ Web性能权威指南
++ HTTP-2基础教程
+
 #### 操作系统
 
++ 深入理解计算机系统 第3版
++ 现代操作系统
++ 30天自制操作系统 (图灵程序设计丛书)
+
 #### 计算机组成原理
+
++ 计算机组成原理--唐朔飞
 
 #### 数据库
 
 1. SQL
+	+ Head First SQL
+	+ SQL 学习指南
+	+ SQL 必知必会
+	+ SQL Cookbook
+	
 2. MySQL
+	+ MySQL 必知必会
+	+ 高性能 MySQL
+	+ MySQL技术内幕 InnoDB存储引擎
+	+ 深入浅出MySQL：数据库开发、优化与管理维护
+	
 3. Redis
 4. MongoDB
 
@@ -175,16 +207,51 @@ Python3网络爬虫数据采集
 
 #### 前端
 
++ HTML5与CSS3基础教程
++ HTML与CSS入门经典
++ HTML5揭秘
++ 疯狂aJax讲义
++ JavaScript DOM编程艺术
++ JavaScript高级程序设计
++ JavaScript高效图形编程
++ Bootstrap实战
++ jQuery高级编程
++ jQuery技术内幕
++ jQuery权威指南
++ Node.js开发指南
+
 #### 人工智能
 1. 机器学习
++ 机器学习_周志华
++ 统计学习方法-李航
++ 机器学习实战
++ 机器学习导论
+
 2. 深度学习
++ 深度学习_中文版
++ 深度学习框架
++ 动手学深度学习-李沐
+
 3. 计算机视觉
++ Computer vision
++ 图像处理分析与机器视觉
++ 学习OpenCV 3 中文版
+
 4. 自然语言处理
++ deep_learning_for_nlp
++ Python自然语言处理中文翻译 NLTK 中文版
++ 斯坦福CS224n 自然语言处理与深度学习 - 笔记
 
 #### 编程之术
 
 #### 其他
 
 1. Git
+
 2. Docker
++ DOCKER技术入门与实战
++ Docker容器与容器云
+
 3. Kubernetes
++ Kubernetes权威指南：从Docker到Kubernetes实践全接触
++ 剖析Kubernetes
