@@ -215,8 +215,8 @@ Python3网络爬虫数据采集
 | 编号 | 书籍名称 | 跳转 |
 | --- | --- |--- |
 | 1 | Head First SQL |
-| 2 | SQL 学习指南 |<span id="SQL必知必会">SQL 必知必会</span>|
-| 3 | SQL 必知必会 |
+| 2 | SQL 学习指南 |
+| 3 | SQL 必知必会 |<span id="SQL必知必会">未完成</span>|
 | 4 | SQL Cookbook |
 
 
