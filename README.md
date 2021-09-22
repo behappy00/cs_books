@@ -50,12 +50,11 @@
 | 10 | C++沉思录中文第2版 |
 | 11 | C++实践工程学 |
 | 12 | C++并发编程实战 |
+| 13 | C++设计新思维-泛型编程与设计之应用 |
+| 14 | Effective STL 中文版 |
+| 15 | More Effective C++中文版 |
+| 16 | STL源码剖析 |
 
-
-+ C++设计新思维-泛型编程与设计之应用
-+ Effective STL 中文版
-+ More Effective C++中文版
-+ STL源码剖析
 
 #### Java
 
