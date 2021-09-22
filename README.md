@@ -197,11 +197,12 @@ Python3网络爬虫数据采集
 #### 数据库
 
 1. SQL
+	+ Head First SQL
+	+ SQL 学习指南
+	+ SQL 必知必会
+	+ SQL Cookbook
 
-<span id="HeadFirstSQL">Head First SQL</span>
-<span id="SQL学习指南">SQL 学习指南</span>
-<span id="SQL必知必会">SQL 必知必会</span>
-<span id="SQLCookbook">SQL Cookbook</span>
+<font color="yellow"> <span id="SQL必知必会">SQL 必知必会</span> </font>
  
 2. MySQL
 	+ MySQL 必知必会
