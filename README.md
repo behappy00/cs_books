@@ -11,7 +11,7 @@
 
 | 编号 | 书籍名称 | 计划开始时间 | 计划完成时间 | 每日阅读量 | 实际完成时间 | 阅读时长 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [SQL 必知必会](#SQL必知必会) | 2021.9.22 | 2021.9.29 |
+| 1 | [SQL 必知必会](#SQL必知必会) | 2021.9.22 | 2021.9.29 | 30 + |
 
 # 资源
 
@@ -121,19 +121,24 @@
 ## Python
 
 1. Python 基础
-	+ 编程小白的第一本Python入门书
-	+ Python编程初学者指南
-	+ Python高级编程
-	+ Python核心编程
-	+ Python编程入门经典
-	+ Python开发技术详解
-	+ Python操作word,excel,pdf
-	+ Python开发实战
-	+ Python网络编程基础
-	+ Python学习手册
-	+ Python正则表达式-深入浅出
+
+| 编号 | 书籍名称 | 跳转 |
+| --- | --- |--- |
+| 1 | 编程小白的第一本Python入门书 |
+| 2 | Python编程初学者指南 |
+| 3 | Python高级编程 |
+| 4 | Python核心编程 |
+| 5 | Python编程入门经典 |
+| 6 | Python开发技术详解 |
+| 7 | Python操作word,excel,pdf |
+| 8 | Python开发实战 |
+| 9 | Python网络编程基础 |
+| 10 | Python学习手册 |
+| 11 | Python正则表达式-深入浅出 |
+
 
 2. Python 爬虫
+
 | 编号 | 书籍名称 | 跳转 |
 | --- | --- |--- |
 | 1 | Python3网络爬虫数据采集 |
@@ -141,11 +146,14 @@
 | 3 | 精通Scrapy网络爬虫 |
 
 3. Python 数据分析与数据挖掘
-	+ Python数据分析基础
-	+ Python数据分析与挖掘实战
-	+ 数据分析实战
-	+ 数据挖掘导论
-	+ Python数据处理
+
+| 编号 | 书籍名称 | 跳转 |
+| --- | --- |--- |
+| 1 | Python数据分析基础 |
+| 2 | Python数据分析与挖掘实战 |
+| 3 | 数据分析实战 |
+| 4 | 数据挖掘导论 |
+| 5 | Python数据处理 |
 
 ## Go
 
@@ -259,18 +267,18 @@
 | 2 | HTML与CSS入门经典 |
 | 3 | HTML5揭秘 |
 | 4 | 疯狂aJax讲义 |
+| 5 | JavaScript DOM编程艺术 |
+| 6 | JavaScript高级程序设计 |
+| 7 | JavaScript高效图形编程 |
+| 8 | Bootstrap实战 |
+| 9 | jQuery高级编程 |
+| 10 | jQuery技术内幕 |
+| 11 | jQuery权威指南 |
+| 12 | Node.js开发指南 |
 
-
-+ JavaScript DOM编程艺术
-+ JavaScript高级程序设计
-+ JavaScript高效图形编程
-+ Bootstrap实战
-+ jQuery高级编程
-+ jQuery技术内幕
-+ jQuery权威指南
-+ Node.js开发指南
 
 ## 人工智能
+
 #### 1. 机器学习
 
 | 编号 | 书籍名称 | 跳转 |
